@@ -1,0 +1,16 @@
+# Rocket Launcher red text explanations
+ROCKET_LAUNCHER_COMMANDS = [
+    "set GD_Anemone_Weapons.Rocket_Launcher.WorldBurn.Title_Effervescent_WorldBurn:AttributePresentationDefinition_8 NoConstraintText War does not compute. <font color=\"#5ff5ff\">Always incendiary. Rockets fly in an arc and explode in a mushroom cloud.</font>",
+    "set GD_Weap_Launchers.Name.Title_Bandit.Title_Legendary_Badaboom:AttributePresentationDefinition_8 NoConstraintText Multi-kill. <font color=\"#5ff5ff\">Fires 6 rockets at cost of 1. Reduced damage and accuracy.</font>",
+    "set GD_Weap_Launchers.Name.Title_Tediore.Title_Legendary_Bunny:AttributePresentationDefinition_8 NoConstraintText Hippity hoppity! <font color=\"#5ff5ff\">When reloaded it drops out active grenades at random while bouncing like a rabbit.</font>",
+    "set GD_Weap_Launchers.Name.Title_Vladof.Title_Legendary_Mongol:AttributePresentationDefinition_8 NoConstraintText The Horde will always return! <font color=\"#5ff5ff\">Fires a single large rocket that sporadically releases multiple smaller rockets at random angles.</font>",
+    "set GD_Weap_Launchers.Name.Title_Maliwan.Title_Barrel_Maliwan_Norfleet:AttributePresentationDefinition_8 NoConstraintText Blows up everything! <font color=\"#5ff5ff\">Fires three large purple projectiles in a horizontal line with erratic trajectory, large damage and blast radius.</font>",
+    "set GD_Weap_Launchers.Name.Title_Torgue.Title_Legendary_Nukem:AttributePresentationDefinition_8 NoConstraintText Name dropper. <font color=\"#5ff5ff\">Rockets fly in an arc and explode in a mushroom cloud.</font>",
+    "set GD_Weap_Launchers.Name.Title_Maliwan.Title_Legendary_Pyrophobia:AttributePresentationDefinition_8 NoConstraintText It's actually a fairly rational fear in this case. <font color=\"#5ff5ff\">Always Incendiary. Projectiles explode multiple times mid-flight before hitting their target.</font>",
+    "set GD_Weap_Launchers.Name.Title.Title__Unique_Creamer:AttributePresentationDefinition_8 NoConstraintText Non-dairy. <font color=\"#5ff5ff\">2% lifesteal. High velocity. Will split in 2 after certain distance.</font>",
+    "set GD_Gladiolus_Weapons.Name.Title.Title_Pearlescent_Tunguska:AttributePresentationDefinition_8 NoConstraintText It will split the sky in two. <font color=\"#5ff5ff\">Fires in a parabolic arc similar to a mortar, rise a few feet into the air, and explode.</font>",
+    "set GD_Orchid_RaidWeapons.RPG.Ahab.Orchid_Seraph_Ahab_Title:AttributePresentationDefinition_8 NoConstraintText For hate's sake. <font color=\"#5ff5ff\">Shoots harpoon projectile that sticks before exploding. Deals explosive damage.</font>",
+    "set GD_Orchid_BossWeapons.Name.Title.Title__Unique_12Pounder:AttributePresentationDefinition_8 NoConstraintText Nec pluribus impar, bitches. <font color=\"#5ff5ff\">Fires a cannonball that can crit and ricochet.</font>",
+    "set GD_Weap_Launchers.Name.Title.Title__Unique_TheHive:AttributePresentationDefinition_8 NoConstraintText Full of bees. <font color=\"#5ff5ff\">4 ammo per shot. Fires a hive that releases homing corrosive rockets.</font>",
+    "set GD_Weap_Launchers.Name.Title.Title__Unique_Roaster:AttributePresentationDefinition_8 NoConstraintText Toasty! <font color=\"#5ff5ff\">Increased elemental chance, status effect damage, and accuracy. Slightly decreased base damage.</font>",
+]
